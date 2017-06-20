@@ -2,4 +2,4 @@
 
 
 
-![imc](C:\Users\juan.jose.sandoval\Desktop\imc\imc.png)
+![imc](imc.png)
